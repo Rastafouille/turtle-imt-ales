@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>TurtleIMTAles</name>
+  <name>turtle-imt-ales</name>
   <version>0.0.0</version>
-  <description>The TurtleIMTAles package</description>
+  <description>The turtle-imt-ales package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

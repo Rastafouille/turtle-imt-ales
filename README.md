@@ -5,7 +5,7 @@ $ sudo apt-get install git
 
 $ cd ~/catkin_ws/src
 
-$ git clone https://github.com/Rastafouille/TurtleIMTAles.git
+$ git clone https://github.com/Rastafouille/turtle-imt-ales.git
 
 $ cd ~/catkin_ws
 
